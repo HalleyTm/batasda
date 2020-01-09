@@ -1,0 +1,12 @@
+{
+  "prefix": "?",
+  "sahip": "659133949876109312",
+  "token": "NjY0NzY1NjA2MTIxNDM5MjQz.Xhb1Tw.jzZGrwA2I6OpRXMXj3-JHBsiP6E",
+  "footer": "Coder By **Ahmet2704** |©| v0.0.1",
+  "version": "Version: 0.0.1",
+  "tekversion": "0.0.1",
+  "kodlayan": "Ahmet2704",
+  "yapimci": "Ahmet2704 Tarafından Kodlanmıştır!"
+}
+token: "NjY0NzY1NjA2MTIxNDM5MjQz.Xhb1Tw.jzZGrwA2I6OpRXMXj3-JHBsiP6E",
+const ytdl = require('ytdl-core');
