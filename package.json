@@ -23,7 +23,7 @@
     "discord.js": "^11.5.0",
     "discord.js-commando": "^0.10.0",
     "discord.js-lavalink": "^2.2.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "ffmpeg": "^0.0.4",
     "ffmpeg-binaries": "^4.0.0",
     "figlet": "^1.2.1",
